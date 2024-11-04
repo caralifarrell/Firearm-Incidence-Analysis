@@ -1,5 +1,5 @@
 # Firearm Incidence Analysis
-*Project as part of MGSC 401 - Statistical Foundations of Data Analytics, McGill University, Desautels Faculty of Management for Fall 2023*
+*Individual project as part of MGSC 401 - Statistical Foundations of Data Analytics, McGill University, Desautels Faculty of Management for Fall 2023*
 ## The Client
 The hypotheical client is focused on addressing gun violence in the United States, where over 600 individuals lose their lives daily due to firearms. The aim is to use analytics to classify and predict the severity of gun violence incidents to enhance public safety and inform policy interventions.
 
